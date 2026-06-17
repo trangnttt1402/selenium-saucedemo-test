@@ -98,7 +98,7 @@ Kết quả mong đợi: Sản phẩm `Sauce Labs Bolt T-Shirt` được thêm v
 Kết quả thực tế: Test case chạy thành công.
 
 ## 8. Minh chứng thực nghiệm
-
+ 
 ### 8.1. Danh sách test case trong Selenium IDE
 
 ![Danh sách test case](images/01-danh-sach-testcase.png)
